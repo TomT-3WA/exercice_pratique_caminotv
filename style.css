@@ -1,0 +1,15 @@
+.container {
+    color: #000;
+    background-image: url(img/air-jordan-1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+;
+
+.dashboard-link {
+    color: #fff;
+    text-decoration: none !important;
+}
+
+;
